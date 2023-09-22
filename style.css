@@ -70,11 +70,10 @@ nav a{
     height: 885px;
     width: 350px;
     color: rgb(52, 52, 137);
-    margin-right: 3rem;
     padding: auto;
   }
   .sec h3{
-    padding-right: 2remrem;
+    padding-right: 2rem, 2rem;
   }
   .sec img{
     width: 330px;
