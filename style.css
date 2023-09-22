@@ -1,5 +1,47 @@
-.sec{
-    background-color: white;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+ 
 
-class="d-flex" role="search"
+
+
+.sec{
+    background-color:rgb(203, 222, 245)  ;
+    height: 800px;
+    padding-top: 7rem;
+}
+.one{
+    background-color: white;
+    height: 633px;
+    width: 1200px;
+    margin: auto;
+    padding: auto;
+    color: rgb(52, 52, 137);
+    
+}
+.sec img{
+    width: 619px;
+    height: 633px;
+}
+.two{
+    padding-bottom: 1rem;
+}
+.shift{
+    padding-left: 2rem;
+}
+.shift h3{
+    padding-left: 9rem;
+}
+.nat{
+    margin-top: 4rem;
+}
+.two input{
+    height: 3rem;
+    width: 28rem;
+    color: rgb(67, 67, 180);
+}
+.two button{
+    background-color: rgb(154, 154, 244);
+    height: 3rem;
+    width: 10rem;
+    font-size: x-large;
+    margin-left: 8rem;
+}
